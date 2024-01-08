@@ -1,0 +1,11 @@
+{
+    "CMDLine": "\"D:\\Steam\\steamapps\\common\\Baldurs Gate 3\\bin\\bg3_dx11.exe\" \u0000",
+    "CaptureTime": "21 Dec 2023 15:53:07",
+    "Comments": "TAA\nEvent 17373 0.56ms",
+    "HostName": "127.0.0.1",
+    "Name": "D:\\Steam\\steamapps\\common\\Baldurs Gate 3\\bin\\bg3_dx11.exe\u0000",
+    "SerializationInfo": "CgdEM0QxMS40EJgEGGMiEVdpbmRvd3MgMTAgKDIySDIpKhdOVklESUEgR2VGb3JjZSBSVFggMjA2MCoXQU1EIFJhZGVvbihUTSkgR3JhcGhpY3MwkJoBONsQSgN4NjRSWkM6L1VzZXJzL1ZpdGFsL0RvY3VtZW50cy9OVklESUEgTnNpZ2h0IEdyYXBoaWNzL0NwcENhcHR1cmVzXGJnM19keDExX18yMDIzXzEyXzIxX18xNV81Ml81Nw==",
+    "extension": "ngfx-cppcap",
+    "uuid": "{444680a1-e4ad-49cc-a263-511bb0bf2e72}",
+    "version": "1.2.0"
+}

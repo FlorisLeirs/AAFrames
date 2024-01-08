@@ -1,0 +1,11 @@
+{
+    "CMDLine": "\"D:\\Steam\\steamapps\\common\\Shadow of the Tomb Raider\\SOTTR.exe\"\u0000",
+    "CaptureTime": "21 Dec 2023 14:01:01",
+    "Comments": "SMAA 0.05ms + 0.09ms + 0.18ms + 0.13ms\nSeems like there is SSAA ",
+    "HostName": "127.0.0.1",
+    "Name": "D:\\Steam\\steamapps\\common\\Shadow of the Tomb Raider\\SOTTR.exe\u0000",
+    "SerializationInfo": "CgVEM0QxMhCYBBhjIhFXaW5kb3dzIDEwICgyMkgyKSoXTlZJRElBIEdlRm9yY2UgUlRYIDIwNjAqF0FNRCBSYWRlb24oVE0pIEdyYXBoaWNzMIdXONwHSgN4NjRSV0M6L1VzZXJzL1ZpdGFsL0RvY3VtZW50cy9OVklESUEgTnNpZ2h0IEdyYXBoaWNzL0NwcENhcHR1cmVzXFNPVFRSX18yMDIzXzEyXzIxX18xNF8wMF81OQ==",
+    "extension": "ngfx-cppcap",
+    "uuid": "{d7e26f88-001a-493a-bc3b-5f807848cd0a}",
+    "version": "1.2.0"
+}
